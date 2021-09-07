@@ -5,6 +5,7 @@
 .list-group-item{
     line-height: 0.5;
     border: none;
+    background-color: lightsteelblue;
 }
 .card-body{
     flex:auto
@@ -25,4 +26,8 @@ span.favorable{
     padding: 3px;
     background-color: green;
     color:white;
+}
+
+body {
+    background-color: lightsteelblue;
 }
